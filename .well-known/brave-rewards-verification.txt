@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hrishikesh.tech
+Token: 691a4a247f81c3d8a88010029588b90fd942ba0afc99c72f1d1a8051aae6c2fc
